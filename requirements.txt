@@ -1,0 +1,15 @@
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.5
+scikit-learn==1.4.2
+altair==5.5.0
+pydeck==0.9.1
+matplotlib==3.8.4
+watchdog==3.0.0       
+protobuf==6.30.2
+requests==2.32.3
+python-dateutil==2.9.0.post0
+jinja2==3.1.6
+pillow==11.2.1
+seaborn==0.13.2         
+joblib==1.4.2           
